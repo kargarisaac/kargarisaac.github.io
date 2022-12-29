@@ -89,7 +89,8 @@ author:
   googlescholar    : "https://scholar.google.ae/citations?user=M7_Wz6kAAAAJ&hl=en&oi=ao"
   email            : "kargarisaac@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://kargarisaac.medium.com/" 
+  # uri              : "https://kargarisaac.medium.com/" 
+  medium           : "kargarisaac"
   bitbucket        :
   codepen          :
   dribbble         :
