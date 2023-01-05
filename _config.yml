@@ -86,10 +86,10 @@ author:
   location         : "Finland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.ae/citations?user=M7_Wz6kAAAAJ&hl=en&oi=ao"
-  email            : "kargarisaac@gmail.com"
+  # googlescholar    : "https://scholar.google.ae/citations?user=M7_Wz6kAAAAJ&hl=en&oi=ao"
+  # email            : "kargarisaac@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://kargarisaac.medium.com/" 
+  # uri              : "https://kargarisaac.medium.com/" 
   # medium           : "kargarisaac"
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kargarisaac"
+  # github           : "kargarisaac"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "eshagh-kargar/"
+  # linkedin         : "eshagh-kargar/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kargarisaac"
+  # twitter          : "kargarisaac"
   vine             :
   weibo            :
   xing             :
