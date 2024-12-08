@@ -13,7 +13,7 @@ Hi, my name is Isaac Kargar and I am the Chief AI Officer and co-founder of [Res
 
 
 
-<img src="../images/linkedin.svg" width="15" height="15"> [LinkedIn](https://www.linkedin.com/in/eshagh-kargar/)\
+<img src="../images/linkedin.svg" width="15" height="15"> [LinkedIn](https://www.linkedin.com/in/isaac-kargar/)\
 <img src="../images/twitter.svg" width="15" height="15"> [Twitter](https://twitter.com/kargarisaac)\
 <img src="../images/github.svg" width="15" height="15"> [GitHub](https://github.com/kargarisaac)\
 <img src="../images/medium.svg" width="15" height="15"> [Medium](https://kargarisaac.medium.com/)\
